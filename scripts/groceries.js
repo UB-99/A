@@ -26,7 +26,7 @@ var products = [{
         category: "meat"
     },
     {
-        name: "chia seeds",
+        name: "hamburger",
         vegetarian: true,
         glutenFree: true,
         price: 15.19,
@@ -42,7 +42,7 @@ var products = [{
         category: "grains"
     },
     {
-        name: "chocolate",
+        name: "tofu",
         vegetarian: true,
         glutenFree: true,
         price: 1.25,
@@ -50,7 +50,7 @@ var products = [{
         category: "other"
     },
     {
-        name: "eggs",
+        name: "beef",
         vegetarian: false,
         glutenFree: true,
         price: 4.99,
@@ -58,7 +58,7 @@ var products = [{
         category: "meat"
     },
     {
-        name: "cheese",
+        name: "milk",
         vegetarian: true,
         glutenFree: true,
         price: 6.85,
@@ -66,23 +66,16 @@ var products = [{
         category: "dairy"
     },
     {
-        name: "chicken",
+        name: "apples",
         vegetarian: false,
         glutenFree: true,
         price: 10.99,
         organic: true,
         category: "meat"
     },
+
     {
-        name: "milk",
-        vegetarian: true,
-        glutenFree: true,
-        price: 4.55,
-        organic: true,
-        category: "dairy"
-    },
-    {
-        name: "strawberries",
+        name: "bananas",
         vegetarian: true,
         glutenFree: true,
         price: 2.49,
